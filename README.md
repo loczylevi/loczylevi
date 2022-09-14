@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loczylevi
-- 👀 I’m interested in programming and making board games
-- 🌱 I’m currently learning python and HTML, CSS, 
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning python and HTML, CSS, SQL
 - 📫 How to reach me: my hobby websites link: https://loczylevi.github.io/HP_AL-weboldala/index.html
 - https://loczylevi.github.io/HP_AL-weboldala/supportlevi.html
 pyscript website:
