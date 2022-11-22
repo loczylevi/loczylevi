@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @loczylevi
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python, django and HTML, CSS, SQL
-- 📫 How to reach me: my hobby websites link: https://loczylevi.github.io/HP_AL-weboldala/index.html
-- https://loczylevi.github.io/HP_AL-weboldala/supportlevi.html
+- 📫 How to reach me:
+my hobby websites link: https://loczylevi.github.io/HP_AL-weboldala/index.html
+https://loczylevi.github.io/HP_AL-weboldala/supportlevi.html
+
 pyscript websites:
 https://loczylevi.github.io/host_halozat_cim/
 https://loczylevi.github.io/Kemiai_Elemek/
