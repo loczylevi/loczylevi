@@ -24,5 +24,6 @@ You can click the Preview link to take a look at your changes.
 * __Beta version__ https://loczylevi.github.io/period_object_orientalt_pyscript/
 * __Gamma version__ https://loczylevi.github.io/sqlite_period/
 * __Delta version__ https://loczylevi.github.io/periodus_kereso_motor/ 
+* __Epszílon version__ https://loczylevi.github.io/kemiai_elemek_img/
 
 responsive website link: https://loczylevi.github.io/szangol_project_new_zealand/
