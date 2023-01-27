@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 * __Epszílon version__ https://loczylevi.github.io/kemiai_elemek_img/
 
 responsive website link: https://loczylevi.github.io/szangol_project_new_zealand/
+
+https://loczylevi.github.io/szinusz_matek_projekt/
