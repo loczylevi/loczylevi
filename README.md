@@ -10,3 +10,6 @@ responsive img gallery project website link:
 responsive website link: https://loczylevi.github.io/szangol_project_new_zealand/
 
 https://loczylevi.github.io/szinusz_matek_projekt/
+
+(ne goonolj annyit játékokra nem éri meg xd)
+https://loczylevi.github.io/P-ACE-weboldala/
