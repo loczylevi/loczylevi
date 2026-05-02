@@ -11,5 +11,5 @@ responsive website link: https://loczylevi.github.io/szangol_project_new_zealand
 
 https://loczylevi.github.io/szinusz_matek_projekt/
 
-(ne goonolj annyit játékokra nem éri meg xd)
+(ne goonolj annyit játékokra nem éri meg xd) <br>
 https://loczylevi.github.io/P-ACE-weboldala/
